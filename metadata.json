@@ -1,0 +1,8 @@
+{
+  "name": "Remix Boon Huat Invoice Management – App 1",
+  "description": "Supplier invoice intake, validation, review, and export for App 2 for Madam Lim.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

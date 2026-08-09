@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+.sidebar {
+  background-color: #0f172a;
+}
+
+.nav-active {
+  background-color: #1e293b;
+  border-left: 4px solid #0d9488;
+}
+
+.card-shadow {
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+}
+
+.badge-purple {
+  background-color: #f3e8ff;
+  color: #7c3aed;
+}
+
+.badge-teal {
+  background-color: #f0fdfa;
+  color: #0d9488;
+}
+
+.badge-navy {
+  background-color: #eff6ff;
+  color: #1e40af;
+}
